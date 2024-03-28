@@ -1,0 +1,14 @@
+* {
+    background-color: olivedrab ;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+}
+
+h1 {font-size: 150%;}
